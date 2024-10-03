@@ -1,1 +1,1 @@
-# The-Wealth-of-nations
+# Just IT Data Bootcamp projects
